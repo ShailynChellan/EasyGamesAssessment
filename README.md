@@ -4,6 +4,7 @@ This is my submission for my assessment as for EasyGames Pty.
 This repository consists of:
 - The main solution done on Visual Studio using C#, CSS and JavaScript.
 - The database which was made using MS SQL Server (Developers Edition) and managed using SQL Server Management Studio 2021.
+ *Please note that this is not required but I figured that I would add it incase, but the email contains the script already*
 - The .sql file that contains all the used queries.
 
 I have also installed some additional packages to help with the making of the web application, these include:
